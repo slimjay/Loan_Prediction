@@ -15,7 +15,7 @@ The dataset was obtained from [Kaggle Loan Prediction](https://www.kaggle.com/da
 ## Data Used
 
 - Data: The dataset was obtained from [Kaggle Loan Prediction](https://www.kaggle.com/datasets/ninzaami/loan-predication/data).
-- Data Cleaning & Analysis: Python and Jupyter Notebook.
+- Data Cleaning & Visualization: Python and Jupyter Notebook.
 - Dependencies: Pandas, Numpy, sklearn-learn,Seaborn
 - Model: Support Vector Machine (SVM)
 
